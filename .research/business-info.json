@@ -1,0 +1,20 @@
+{
+  "businessName": "Tmg Electrical And It Solutions",
+  "category": "electrical",
+  "brandColors": {
+    "primary": "#F39C12",
+    "secondary": "#F5B041",
+    "accent": "#E74C3C",
+    "dark": "#D68910",
+    "light": "#FEF5E7"
+  },
+  "tagline": "Your Current Solution",
+  "services": [
+    "Emergency Repairs",
+    "Installations",
+    "Fault Finding",
+    "Maintenance",
+    "Rewiring",
+    "Safety Inspections"
+  ]
+}
